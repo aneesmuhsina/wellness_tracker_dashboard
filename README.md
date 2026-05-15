@@ -9,9 +9,8 @@ To transform raw wellness data into actionable insights that help users understa
  ## Technologies Used
 - Microsoft Power BI
 - DAX
-- Microsoft Excel
 - CSV Dataset
-- 
+
 ## Key Features
 - Real-time KPI Cards
 - User Wellness Summary
