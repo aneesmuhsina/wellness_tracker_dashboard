@@ -6,10 +6,12 @@ A Power BI dashboard developed to monitor and analyze daily wellness activities 
 ## Objective
 To transform raw wellness data into actionable insights that help users understand and improve their daily lifestyle habits.
 
- ## Tools Used
+ ## Technologies Used
 - Microsoft Power BI
-- DAX Measures
-
+- DAX
+- Microsoft Excel
+- CSV Dataset
+- 
 ## Key Features
 - Real-time KPI Cards
 - User Wellness Summary
